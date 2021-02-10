@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "613805014244",
+    "project_id": "fir-uploadimageexample-69057",
+    "storage_bucket": "fir-uploadimageexample-69057.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613805014244:android:1c423cafcd734ef6cd80f1",
+        "android_client_info": {
+          "package_name": "com.monir.firebaseuploadimageexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "613805014244-k2fiq5qirgml8a1qtf58c768vmll6tjn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDA9pSysW-KPRIUMz_luEKOVuw2bhj1W6g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "613805014244-k2fiq5qirgml8a1qtf58c768vmll6tjn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
